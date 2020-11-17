@@ -1,0 +1,4 @@
+﻿id|user_id|external_user_id|app_id|time|platform|os_version|device_model|device_id|product_id|price|currency|properties
+f7e60a5c-19a8-a5ed-5b6f-e3b77bc76ff3|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574380800|ios|iOS 15|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b922|sailboat|20000|USD|{}
+1354265d-6218-45f9-3954-e0ac0dc279ac|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574467200|ios|iOS 16|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b923|seat belt|200|USD|{}
+f8e6d140-3ca1-4c48-6b4e-588d843d3fc6|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574553600|ios|iOS 17|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b924|perfume|60|USD|{}

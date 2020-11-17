@@ -1,0 +1,4 @@
+﻿id|user_id|external_user_id|app_id|time|platform|os_version|device_model|device_id|product_id|price|currency|properties
+b3db7e5d-70e9-6b24-0935-22847a768098|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574121600|ios|iOS 12|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b919|hanger|1|USD|{}
+dfbbab96-8917-701e-5e38-aab94a702571|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574208000|ios|iOS 13|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b920|sharpie|1|USD|{}
+151621cf-2bd3-a521-192b-289ffe2518b4|155e77eeba6d486f95ce0e0|bonnie.rivera|8df3b298-0d30-24e0-331a-40a80e6665b8-filler-events|1574294400|ios|iOS 14|iPhone 11 Pro|155e77ee-ba6d-486f-95ce-0e0c0fb4b921|shampoo|3|USD|{}
